@@ -1,0 +1,1 @@
+print('hello rest studies')
